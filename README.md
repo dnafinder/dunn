@@ -6,22 +6,6 @@ Stepdown Dunn procedure for nonparametric multiple comparisons between independe
 
 This function performs Dunn's stepdown procedure using rank-based statistics to compare multiple independent samples, with an optional control group and structured outputs.
 
-## MATLAB Online
-
-You can open and run the function directly in MATLAB Online via:
-
-https://matlab.mathworks.com/open/github/v1?repo=dnafinder/dunn&file=dunn.m
-
-## Repository
-
-GitHub repository:
-
-https://github.com/dnafinder/dunn
-
-Main file:
-
-- dunn.m – implementation of Dunn's stepdown procedure, with Name–Value options and structured outputs.
-
 ## Syntax
 
 The function uses a single intuitive calling style: one data vector per group, followed by optional Name–Value pairs.
